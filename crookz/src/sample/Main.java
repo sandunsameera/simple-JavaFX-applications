@@ -25,7 +25,7 @@ public class Main extends Application {
 
         window = primaryStage;
 
-        Label label1 = new Label("Hello welcome scene1 ");
+        Label label1 = new Label("I love you dileesha ");
         Button button1 = new Button("Click me go to scene 2");
         button1.setOnAction(e -> window.setScene(scene2));
 
