@@ -23,6 +23,7 @@ public class Main extends Application {
         window = primaryStage;
         window.setTitle("Embedding Title");
 
+        //Top menu
         HBox topMenu = new HBox();
         Button button1 = new Button("File");
         Button button2 = new Button("Edit");
@@ -32,6 +33,7 @@ public class Main extends Application {
 
         topMenu.getChildren().addAll(button1,button2,button3);
 
+//        Left menu
         VBox leftMenu = new VBox();
         Button button4 = new Button("Navigate");
         Button button5 = new Button("Code");
