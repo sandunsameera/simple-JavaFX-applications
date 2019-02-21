@@ -203,6 +203,14 @@
       <option name="presentableId" value="Default" />
       <updated>1550081684172</updated>
     </task>
+    <task id="LOCAL-00001" summary="Name Matcher">
+      <created>1550771252397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550771252397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -236,6 +244,10 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Name Matcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name Matcher" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/crookz/switching scene/demo" />
