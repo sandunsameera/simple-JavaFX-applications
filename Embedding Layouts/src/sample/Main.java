@@ -42,6 +42,7 @@ public class Main extends Application {
         leftMenu.setSpacing(20);
         leftMenu.getChildren().addAll(button4,button5,button6);
 
+//      Layout
         BorderPane borderPane = new BorderPane();
         borderPane.setTop(topMenu);
         borderPane.setLeft(leftMenu);
